@@ -1,0 +1,14 @@
+div {
+	text-align: center;
+	width: 50%;
+    height: 100px;
+	position: fixed;
+}
+.test1 {
+	background:red;
+    left: 0;
+}
+.test2 {
+	right: 0;
+	background:blue;
+}
